@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Frequency</title>
         <link>https://mohwaili.github.io/frequency/appcast.xml</link>
         <description>Updates for Frequency, a menu-bar dictation app for Apple Silicon Macs.</description>
         <language>en</language>
+        <item>
+            <title>Frequency 0.1.0</title>
+            <pubDate>Thu, 20 Aug 2026 19:55:13 +0000</pubDate>
+            <link>https://github.com/mohwaili/frequency/releases/tag/v0.1.0</link>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Frequency 0.1.0 (build 93).</p><p><a href="https://github.com/mohwaili/frequency/releases/tag/v0.1.0">Release notes</a></p>]]></description>
+            <enclosure url="https://github.com/mohwaili/frequency/releases/download/v0.1.0/Frequency-0.1.0.dmg" length="11765402" type="application/octet-stream" sparkle:edSignature="WuYLvoSqebu1q2z8bOCCz6yceg4+js0ewWLTuFrjv9go9EM3foOcHUy9gL9SuGSYGokZiexezyWLCLWE+GeqDg=="/>
+        </item>
     </channel>
 </rss>
