@@ -6,6 +6,16 @@
         <description>Updates for Frequency, a menu-bar dictation app for Apple Silicon Macs.</description>
         <language>en</language>
         <item>
+            <title>Frequency 0.1.1</title>
+            <pubDate>Thu, 20 Aug 2026 21:37:45 +0000</pubDate>
+            <link>https://github.com/mohwaili/frequency/releases/tag/v0.1.1</link>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Frequency 0.1.1 (build 101).</p><p><a href="https://github.com/mohwaili/frequency/releases/tag/v0.1.1">Release notes</a></p>]]></description>
+            <enclosure url="https://github.com/mohwaili/frequency/releases/download/v0.1.1/Frequency-0.1.1.dmg" length="11768862" type="application/octet-stream" sparkle:edSignature="izJ0P90sfjqeV5MHY9n6SbwZ+ahyZHlWJ5FGxACZtC8UDD/u0G6y35hTOpfBTvEhAUG4Er16Q1lwfcAUZArmAA=="/>
+        </item>
+        <item>
             <title>Frequency 0.1.0</title>
             <pubDate>Thu, 20 Aug 2026 19:55:13 +0000</pubDate>
             <link>https://github.com/mohwaili/frequency/releases/tag/v0.1.0</link>
